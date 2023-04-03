@@ -1,0 +1,49 @@
+.details {
+	background: rgb(9, 255, 0);
+}
+
+.details mat-card-title {
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	color: rgb(17, 0, 255);
+	padding-left: 15px;
+}
+
+.details img {
+	float: left;
+}
+
+.details mat-card-header {
+	margin-bottom: 10px;
+	font-weight: bold;
+	display: inline-block;
+	padding-left: 15px;
+}
+
+.details mat-icon {
+	font-size: 30px;
+	color: black;
+	padding-right: 10px;
+	margin-left: 5px;
+}
+
+.details mat-card-content {
+	font-size: 20px;
+	padding-left: 15px;
+}
+
+
+button {
+	background-color:blue; 
+	font-weight: bold; 
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+h1 {
+	font-weight: bold;
+	color: blue;
+}
